@@ -1,0 +1,16 @@
+{
+    "name": "Tom Cruise",
+    "age": 58,
+    "placeOfBirth": "Syracuse, NY",
+    "birthdate": "July 4, 1962",
+    "photo": "https://jsonformatter.org/img/tom-cruise.jpg",
+    "scheme":null,
+    "weight": 67.5,
+    "hasChildren": true,
+    "hasGreyHair": false,
+    "children": [
+        "Suri",
+        "Isabella Jane",
+        "Connor"
+    ]
+}
